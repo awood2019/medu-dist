@@ -1,0 +1,472 @@
+TaxID	Kingdom	Phylum	Class	Order	Family	Genus	Species
+1035495	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Amphisbetia	Amphisbetia distans
+1035496	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Sertularia	Sertularia marginata
+1053277	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Cepheidae	Marivagia	Marivagia stellata
+1089265	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Lafoeidae	Zygophylax	Zygophylax brownei
+1105128	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Catostylidae	Acromitus	Acromitus flagellatus
+1105129	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora hysoscella
+114796	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Cassiopeidae	Cassiopea	Cassiopea andromeda
+1191432	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Rhizostomatidae	Rhopilema	Rhopilema hispidum
+1193083	Metazoa	Cnidaria	Cubozoa	Carybdeida	Alatinidae	Alatina	Alatina alata
+1262060	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Clavactinia	Clavactinia serrata
+1279102	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corynidae	Stauridiosarsia	Stauridiosarsia ophiogaster
+1280077	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corymorphidae	Corymorpha	Corymorpha anthoformis
+128124	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	Craspedacusta	Craspedacusta sowerbii
+128131	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Sanderia	Sanderia malayensis
+12993	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Cassiopeidae	Cassiopea	Cassiopea xamachana
+13093	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Hydractinia	Hydractinia symbiolongicarpus
+13108	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Pandeidae	Leuckartiara	Leuckartiara octona
+1345087	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corynidae	Stauridiosarsia	Stauridiosarsia gemmifera
+135523	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Cyaneidae	Cyanea	Cyanea nozakii
+1366059	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Diphyidae	Lensia	Lensia cossack
+1484298	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora fulgida
+1538291	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Sminthea	Sminthea arctica
+154958	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydridae	Hydra	Hydra circumcincta
+154962	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Prayidae	Nectopyramis	Nectopyramis sp. MMM-2001
+1577631	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Orthopyxis	Orthopyxis mianzani
+1585943	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Catostylidae	Catostylus	Catostylus tagi
+1604653	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Pelagia	Pelagia panopyra
+1631756	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Orthopyxis	Orthopyxis caliculata
+166266	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	Maeotias	Maeotias marginata
+168710	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Aeginidae	Aegina	Aegina citrea
+168717	Metazoa	Cnidaria	Cubozoa	Carybdeida	Carukiidae	Carukia	Carukia barnesi
+168718	Metazoa	Cnidaria	Cubozoa	Carybdeida	Tripedaliidae	Copula	Copula sivickisi
+168722	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Catostylidae	Catostylus	Catostylus sp. AGC-2001
+168723	Metazoa	Cnidaria	Cubozoa	Chirodropida	Chiropsalmidae	Chiropsalmus	Chiropsalmus sp. AGC-2001
+168724	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora melanaster
+168729	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Crossota	Crossota rufobrunnea
+168732	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Cuninidae	Cunina	Cunina frugifera
+168735	Metazoa	Cnidaria	Cubozoa	Carybdeida	Carybdeidae	'Darwin carybdeid' sp. AGC-2001	
+168738	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	Eudendrium	Eudendrium racemosum
+168739	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Haliclystus	Haliclystus sanjuanensis
+168742	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Halicreatidae	Haliscera	Haliscera conica
+168745	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Hippopodiidae	Hippopodius	Hippopodius hippopus
+168749	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Laodiceidae	Melicertissa	Melicertissa sp. AGC-2001
+168753	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Moerisiidae	Moerisia	Moerisia sp. AGC-2001
+168759	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Agalmatidae	Nanomia	Nanomia bijuga
+168762	Metazoa	Cnidaria	Scyphozoa	Coronatae	Nausithoidae	Nausithoe	Nausithoe rubra
+168763	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Prayidae	Nectopyramis	Nectopyramis sp. AGC-2001
+168767	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora colorata
+168769	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Pantachogon	Pantachogon haeckeli
+168771	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Phacellophora	Phacellophora camtschatica
+168775	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Physaliidae	Physalia	Physalia physalis
+168779	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Physophoridae	Physophora	Physophora hydrostatica
+168783	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Porpitidae	Porpita	Porpita sp. AGC-2001
+168787	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Polyorchidae	Scrippsia	Scrippsia pacifica
+168794	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cladonematidae	Staurocladia	Staurocladia wellingtoni
+168796	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Stomolophidae	Stomolophus	Stomolophus meleagris
+168799	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Tiaropsidae	Tiaropsidium	Tiaropsidium kelseyi
+1699629	Metazoa	Cnidaria	Cubozoa	Carybdeida	Carybdeidae	Carybdea	Carybdea brevipedalia
+1705789	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora plocamia
+1755686	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Boreohydridae	Plotocnide	Plotocnide borealis
+1769400	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aglaopheniidae	Aglaophenia	Aglaophenia rhynchocarpa
+1769404	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	Ectopleura	Ectopleura obypa
+1769407	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aglaopheniidae	Lytocarpia	Lytocarpia canepa
+1769408	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Kirchenpaueriidae	Oswaldella	Oswaldella shetlandica
+1769409	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aequoreidae	Rhacostoma	Rhacostoma atlanticum
+1769410	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Sertularella	Sertularella diaphana
+1769411	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Sertularia	Sertularia tumida
+1769412	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Sertularia	Sertularia turbinata
+1769415	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Idiellana	Idiellana pristis
+1769417	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Haleciidae	Nemalecium	Nemalecium lighti
+1792614	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Campanularia	Campanularia sp. MMM-2016
+1792615	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Hydractinia	Hydractinia sp. MMM-2016
+1792616	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	Eudendrium	Eudendrium caraiuru
+1793163	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corynidae	Stauridiosarsia	Stauridiosarsia producta
+1840506	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora chinensis
+184213	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia limbata
+1843190	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Kishinouyeidae	Calvadosia	Calvadosia campanulata
+1843191	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Kishinouyeidae	Calvadosia	Calvadosia corbini
+1843192	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Kishinouyeidae	Calvadosia	Calvadosia cruxmelitensis
+1843194	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Kishinouyeidae	Calvadosia	Calvadosia vanhoeffeni
+1843195	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Kishinouyeidae	Calvadosia	Calvadosia cruciformis
+1843196	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Haliclystus	Haliclystus borealis
+1843197	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Haliclystus	Haliclystus inabai
+1843198	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Lucernariidae	Lucernaria	Lucernaria bathyphila
+1843199	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Lucernariidae	Lucernaria	Lucernaria quadricornis
+1843202	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Lipkeidae	Lipkea	Lipkea ruspoliana
+1843204	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Manania	Manania gwilliami
+1843205	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Manania	Manania uchidai
+1843213	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Kishinouyeidae	Calvadosia	Calvadosia sp. 1 LSM-2016
+1843214	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Kishinouyeidae	Calvadosia	Calvadosia sp. 2 LSM-2016
+1843215	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Kishinouyeidae	Calvadosia	Calvadosia sp. 3 LSM-2016
+1843216	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Kishinouyeidae	Calvadosia	Calvadosia sp. 4 LSM-2016
+1843217	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Haliclystus	Haliclystus sp. AUS
+1843218	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Lipkeidae	Lipkea	Lipkea sp. JAP 2
+1843219	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Lucernariidae	Lucernaria	Lucernaria sp. EPR
+1843220	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Depastromorpha	Depastromorpha sp. AUS
+1843506	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Kishinouyeidae	Calvadosia	Calvadosia nagatensis
+1843705	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Lucernariidae	Lucernaria	Lucernaria sainthilairei
+185004	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Obeliidae	Obelia	Obelia geniculata
+1890235	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia solida
+1911418	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora pacifica
+1911533	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Cuninidae	Cunina	Cunina octonaria
+1911534	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Cuninidae	Sigiweddellia	Sigiweddellia sp. BB-2016
+1911535	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Cuninidae	Solmissus	Solmissus albescens
+1911944	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Tetraplatiidae	Tetraplatia	Tetraplatia chuni
+1914956	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	Limnocnida	Limnocnida tanganjicae
+1914958	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Tetrorchis	Tetrorchis sp. BB-2016
+1914961	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Ptychogastriidae	Ptychogastria	Ptychogastria polaris
+1954230	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Cuninidae	Sigiweddellia	Sigiweddellia sp. DLSI022
+1962980	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia coerulea
+1962981	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia relicta
+2035841	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Symplectoscyphidae	Bicaularia	Bicaularia tongensis
+2039474	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora cf. chesapeake KMB1147
+2039478	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora cf. chesapeake KMB1148
+2039479	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora achlyos
+2039480	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora africana
+2039481	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora chesapeakei
+2039483	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Mawia	Mawia benovici
+2053072	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia sp. 12 LGD-2017
+2053073	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia sp. 13 LGD-2017
+2053074	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia sp. 14 LGD-2017
+2053075	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia sp. 15 LGD-2017
+2053076	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia sp. 16 LGD-2017
+2053077	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia sp. 9 LGD-2017
+2053084	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Catostylidae	Catostylidae sp. 1 LGD-2017	
+2053085	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Catostylidae	Catostylidae sp. 2 LGD-2017	
+2053086	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora sp. 1 LGD-2017
+2053087	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora sp. 2 LGD-2017
+2053088	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora sp. 3 LGD-2017
+2053089	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora sp. 4 LGD-2017
+2053090	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora sp. 5 LGD-2017
+2053091	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora sp. 6 LGD-2017
+2053092	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Drymonematidae	Drymonema	Drymonema sp. 1 LGD-2017
+2053094	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Lobonematidae	Lobonematidae sp. 1 LGD-2017	
+2053095	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Lobonematidae	Lobonematidae sp. 2 LGD-2017	
+2053096	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Lobonematidae	Lobonematidae sp. 3 LGD-2017	
+2053097	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Lobonematidae	Lobonematidae sp. 4 LGD-2017	
+2053098	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Lychnorhizidae	Lychnorhiza	Lychnorhiza sp. 1 LGD-2017
+2053099	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Lychnorhizidae	Lychnorhiza	Lychnorhiza sp. 2 LGD-2017
+2053100	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Lychnorhizidae	Lychnorhiza	Lychnorhiza sp. 3 LGD-2017
+2053101	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Pelagia	Pelagia sp. 1 LGD-2017
+2053102	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Sanderia	Sanderia sp. 1 LGD-2017
+2053103	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Sanderia	Sanderia sp. 2 LGD-2017
+2053104	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Stomolophidae	Stomolophus	Stomolophus sp. 1 LGD-2017
+2053105	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Stomolophidae	Stomolophus	Stomolophus sp. 2 LGD-2017
+2053106	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Stomolophidae	Stomolophus	Stomolophus sp. 3 LGD-2017
+2053107	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Stomolophidae	Stomolophus	Stomolophus sp. 4 LGD-2017
+2053108	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Stomolophidae	Stomolophus	Stomolophus sp. 5 LGD-2017
+2053109	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Stomolophidae	Stomolophus	Stomolophus sp. 6 LGD-2017
+2053110	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Catostylidae	Catostylus	Catostylus townsendi
+2053111	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Lobonematidae	Lobonema	Lobonema smithii
+2053113	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Mastigiidae	Phyllorhiza	Phyllorhiza pacifica
+2053114	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora cf. hysoscella LGD-2017
+2053117	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Catostylidae	Crambionella	Crambionella sp. M0D022684L_USCAMBQ
+2069908	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Xingyurella	Xingyurella xingyuarum
+2071996	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Pachycordyle	Pachycordyle michaeli
+2099340	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Halicreatidae	Botrynema	Botrynema ellinorae
+2099341	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Crossota	Crossota alba
+2099342	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Crossota	Crossota brunnea
+2099343	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Crossota	Crossota millsae
+2099344	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Crossota	Crossota norvegica
+2099345	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Halicreatidae	Haliscera	Haliscera bigelowi
+2099346	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Halicreatidae	Halitrephes	Halitrephes maasi
+2099347	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	Olindias	Olindias tenuis
+2099350	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Aeginidae	Bathykorus	Bathykorus bouilloni
+2099354	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Solmarisidae	Pegantha	Pegantha martagon
+2099355	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Solmarisidae	Pegantha	Pegantha rubiginosa
+2099358	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Solmarisidae	Solmaris	Solmaris sp. DLSI359
+2099360	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Arctapodema	Arctapodema sp. DLSI358
+2099362	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Benthocodon	Benthocodon sp. USNM 1452215
+214114	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Tiburonia	Tiburonia granrojo
+2169487	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Pandeidae	Neoturris	Neoturris pileata
+2176021	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Pandeidae	Catablema	Catablema multicirratum
+2176022	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Pandeidae	Catablema	Catablema vesicarium nodulosum
+2176024	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Pandeidae	Catablema	Catablema cf. multicirratum PS-2018
+237412	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Cassiopeidae	Cassiopea	Cassiopea frondosa
+237413	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Catostylidae	Catostylus	Catostylus mosaicus
+2528354	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Benthocodon	Benthocodon pedunculatus
+256004	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corynidae	Sarsia	Sarsia lovenii
+2591198	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aequoreidae	Aequorea	Aequorea sp. CBRG-cnid130
+2591199	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aequoreidae	Aequorea	Aequorea sp. CBRG-cnid131
+2591200	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aequoreidae	Aequorea	Aequorea sp. CBRG-cnid134
+2606404	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Manania	Manania handi
+264050	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Candelabridae	Candelabrum	Candelabrum cocksii
+264052	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	Ectopleura	Ectopleura larynx
+264055	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	Hybocodon	Hybocodon prolifer
+264058	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corymorphidae	Euphysa	Euphysa intermedia
+264059	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corymorphidae	Corymorpha	Corymorpha nutans
+264060	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Porpitidae	Velella	Velella velella
+264061	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Solanderia	Solanderia ericopsis
+264064	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Zancleidae	Zanclea	Zanclea costata
+264068	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Pennariidae	Pennaria	Pennaria disticha
+264071	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cladocorynidae	Cladocoryne	Cladocoryne floccosa
+264121	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corynidae	Sarsia	Sarsia tubulosa
+264146	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corynidae	Coryne	Coryne muscoides
+2658587	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Eirenidae	Eirene	Eirene sp. DNA172+DNA195
+269554	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Rhizostomatidae	Rhizostoma	Rhizostoma pulmo
+2721090	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Margelopsidae	Margelopsis	Margelopsis hartlaubii
+2722935	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Lafoeidae	Zygophylax	Zygophylax pacifica
+2744037	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora pseudoocellata
+2744293	Metazoa	Cnidaria	Scyphozoa	Coronatae	Nausithoidae	Nausithoe	Nausithoe aurea
+2744294	Metazoa	Cnidaria	Scyphozoa	Coronatae	Nausithoidae	Nausithoe	Nausithoe maculata
+2744295	Metazoa	Cnidaria	Scyphozoa	Coronatae	Nausithoidae	Nausithoe	Nausithoe werneri
+2747904	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aequoreidae	Aequorea	Aequorea forskalea
+2751894	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Agalmatidae	Cordagalma	Cordagalma ordinatum
+2758538	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	Olindias	Olindias muelleri
+2758539	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Kirchenpaueriidae	Oswaldella	Oswaldella terranovae
+2764089	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Mastigiidae	Phyllorhiza	Phyllorhiza sp. CR-2020
+2770516	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	Vallentinia	Vallentinia gabriellae
+27804	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Cyaneidae	Cyanea	Cyanea capillata
+2794042	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Lafoeidae	Lafoea	Lafoea sp. 1 XS-2020
+2794043	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulinidae	Campanulina	Campanulina sp. 2 XS-2020
+2829236	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia sp. 17 AF-2021
+2830237	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Erennidae	Erennidae environmental sample	
+2830241	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Aeginidae	Aeginidae environmental sample	
+2830243	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Apolemiidae	Apolemiidae environmental sample	
+2830245	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Hippopodiidae	Hippopodiidae environmental sample	
+2830249	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Rhopalonematidae environmental sample	
+2830253	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Lafoeidae	Lafoeidae environmental sample	
+2830255	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Mitrocomidae	Mitrocomidae environmental sample	
+2830259	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corymorphidae	Corymorphidae environmental sample	
+2830261	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Monobrachiidae	Monobrachiidae environmental sample	
+2831494	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia cebimarensis
+2831496	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia insularia
+2831497	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia malayensis
+2831499	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia miyakei
+2837385	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Diphyidae	Chelophyes	Chelophyes contorta
+2867955	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia pseudosolida
+2876032	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Margelopsidae	Margelopsis	Margelopsis haeckelii
+2941211	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia sp. YL-2022
+2942227	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Mastigiidae	Mastigias	Mastigias sp. YL-2022
+2962497	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Cuninidae	Solmissus	Solmissus sp. AGC-2022
+2997216	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	Tubularia	Tubularia sp. MIMB 44077
+2997248	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Abietinaria	Abietinaria cf. kincaidi AP-2022
+2997249	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Mitrocomidae	Earleria	Earleria cf. denticulata AP-2022
+2997254	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corymorphidae	Branchiocerianthus	Branchiocerianthus sp. r AP-2022
+2997256	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Candelabridae	Candelabrum	Candelabrum sp. b AP-2022
+308567	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Bougainvillia	Bougainvillia muscus
+308570	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Clavidae	Rhizogeton	Rhizogeton nudus
+308571	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	Eudendrium	Eudendrium capillare
+308574	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Plumularia	Plumularia setacea
+308579	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Oceaniidae	Turritopsis	Turritopsis dohrnii
+308585	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Plumularia	Plumularia margaretta
+308591	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Tridentata	Tridentata perpusilla
+308597	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Malagazziidae	Octophialucium	Octophialucium indicum
+308600	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Abietinaria	Abietinaria filicula
+308602	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Hydrallmania	Hydrallmania falcata
+308604	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Diphasia	Diphasia fallax
+308610	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Sertularia	Sertularia cupressina
+308616	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Thuiaria	Thuiaria thuja
+308619	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Nemertesia	Nemertesia antennina
+308621	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Halopterididae	Halopteris	Halopteris minuta
+308622	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Plumularia	Plumularia hyalina
+308623	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aglaopheniidae	Aglaophenia	Aglaophenia tubiformis
+308662	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Lafoeidae	Lafoea	Lafoea dumosa
+308667	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Hebellidae	Anthohebella	Anthohebella parasitica
+313498	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Haliclystus	Haliclystus octoradiatus
+313503	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Depastromorpha	Depastromorpha africana
+313506	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Lucernariidae	Lucernaria	Lucernaria janetae
+314508	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Orthopyxis	Orthopyxis sargassicola
+314522	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Gonothyraea	Gonothyraea loveni
+314579	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Billardia	Billardia subrufa
+316177	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Diphyidae	Diphyes	Diphyes dispar
+316183	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Agalmatidae	Halistemma	Halistemma rubrum
+316191	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Diphyidae	Sulculeolaria	Sulculeolaria quadrivalvis
+316203	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Diphyidae	Muggiaea	Muggiaea atlantica
+316211	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Diphyidae	Chelophyes	Chelophyes appendiculata
+316222	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Rhodaliidae	Stephalia	Stephalia dilata
+316235	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Porpitidae	Porpita	Porpita porpita
+322594	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Cyaneidae	Cyanea	Cyanea annaskala
+323299	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Monobrachiidae	Monobrachium	Monobrachium parasiticum
+323302	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	Aglauropsis	Aglauropsis aeora
+323307	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Melicertidae	Melicertum	Melicertum octocostatum
+323310	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Pandeidae	Pandea	Pandea sp. AGC-2005
+323323	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Garveia	Garveia sp. CC-2005
+323326	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Proboscidactylidae	Fabienna	Fabienna sphaerica
+323328	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Proboscidactylidae	Proboscidactyla	Proboscidactyla flavicirrata
+323329	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora sp. AGC-2005
+323330	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia sp. AGC-2005
+323333	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Rhizostome sp. AGC-2005		
+323337	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Cepheidae	Cotylorhiza	Cotylorhiza tuberculata
+323338	Metazoa	Cnidaria	Cubozoa	Carybdeida	Carybdeidae	Carybdea	Carybdea sp. 2 AGC-2005
+323339	Metazoa	Cnidaria	Cubozoa	Carybdeida	Carybdeidae	Carybdea	Carybdea sp. 1 AGC-2005
+323341	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	Astrohydra	Astrohydra japonica
+32570	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Obeliidae	Obelia	Obelia longissima
+329739	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Tetraplatiidae	Tetraplatia	Tetraplatia volitans
+336980	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Clytiidae	Clytia	Clytia noliformis
+340365	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	Scolionema	Scolionema suvaense
+343954	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corynidae	Slabberia	Slabberia halterata
+35630	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Hydractinia	Hydractinia echinata
+367903	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bythotiaridae	Brinckmannia	Brinckmannia hexactinellidophila
+367905	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Rathkeidae	Podocorynoides	Podocorynoides minima
+367907	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Bougainvillia	Bougainvillia principis
+367909	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Koellikerina	Koellikerina fasciculata
+367911	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Bimeria	Bimeria vestita
+367912	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Garveia	Garveia grisea
+367914	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Pachycordyle	Pachycordyle pusilla
+367916	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Oceaniidae	Turritopsis	Turritopsis rubra
+367925	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Rathkeidae	Rathkea	Rathkea octopunctata
+367927	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Dicoryne	Dicoryne conybearei
+37519	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	Tubularia	Tubularia indivisa
+37520	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Obeliidae	Obelia	Obelia dichotoma
+37524	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Geryoniidae	Liriope	Liriope tetraphylla
+37531	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Craterolophidae	Craterolophus	Craterolophus convolvulus
+400838	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Pelagia	Pelagia noctiluca
+401949	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Monostaechas	Monostaechas quadridens
+401951	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Dentitheca	Dentitheca bidentata
+401965	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aglaopheniidae	Macrorhynchia	Macrorhynchia philippina
+401966	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Plumulariidae	Plumularia	Plumularia strictocarpa
+401968	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Halopterididae	Halopteris	Halopteris carinata
+401975	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Halopterididae	Halopteris	Halopteris alternata
+413645	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cytaeididae	Perarella	Perarella schneideri
+413647	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Lizzia	Lizzia blondina
+446531	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. WH1
+446532	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. NFR1
+446533	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. NFR2
+446534	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. NFR3
+446535	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. NFR4
+446536	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. HG1
+446537	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. NFR5
+446538	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. IM1
+446539	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. NFR6
+446540	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. NFR7
+446541	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. NFR8
+446542	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. NFR9
+446543	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. HG2
+446544	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. NFR10
+446545	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. NFR11
+446546	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. JC2
+446547	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora sp. JC1
+45396	Metazoa	Cnidaria	Cubozoa	Chirodropida	Chirodropidae	Chironex	Chironex fleckeri
+47071	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Blackfordiidae	Blackfordia	Blackfordia virginica
+475726	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Haleciidae	Halecium	Halecium halecinum
+488588	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corymorphidae	Euphysa	Euphysa japonica
+492274	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Cordylophoridae	Cordylophora	Cordylophora caspia
+493927	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Catostylidae	Crambionella	Crambionella orsini
+493932	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Mastigiidae	Phyllorhiza	Phyllorhiza punctata
+497392	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Olindiidae	Olindias	Olindias sambaquiensis
+497393	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Pantachogon	Pantachogon sp. orange
+497394	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Pantachogon	Pantachogon sp. white
+497490	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Aglaura	Aglaura hemistoma
+497493	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Amphogona	Amphogona apicata
+497494	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Rhopalonema	Rhopalonema velatum
+497498	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Halicreatidae	Botrynema	Botrynema brucei
+497499	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Halicreatidae	Halicreas	Halicreas minimum
+497503	Metazoa	Cnidaria	Hydrozoa	Limnomedusae	Geryoniidae	Geryonia	Geryonia proboscidalis
+497513	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Aeginidae	Solmundella	Solmundella bitentaculata
+497870	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Cuninidae	Sigiweddellia	Sigiweddellia sp. BB-2008
+498503	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Apolemiidae	Apolemia	Apolemia sp. PC-2008
+498504	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia sp. PC-2008
+498505	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Bougainvillia	Bougainvillia carolinensis
+498506	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	Ectopleura	Ectopleura dumortierii
+498507	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Garveia	Garveia annulata
+498509	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Pandeidae	Pandea	Pandea sp. PC-2008
+498510	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Proboscidactylidae	Proboscidactyla	Proboscidactyla ornata
+498511	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Porpitidae	Velella	Velella sp. PC-2008
+498512	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Zancleidae	Zanclea	Zanclea prolifera
+498516	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Stylasteridae	Adelopora	Adelopora crassilabrum
+498518	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Clava	Clava multicornis
+498520	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Clavactinia	Clavactinia gallensis
+498522	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Oceaniidae	Corydendrium	Corydendrium sp. PC-2008
+498524	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Stylasteridae	Crypthelia	Crypthelia cryptotrema
+498525	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corymorphidae	Corymorpha	Corymorpha bigelowi
+498527	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Ptilocodiidae	Hydrichthella	Hydrichthella epigorgia
+498583	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Stylasteridae	Leptohelia	Leptohelia microstylus
+498585	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Stylasteridae	Pseudocrypthelia	Pseudocrypthelia pachypoma
+498587	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	Ralpharia	Ralpharia gorgoniae
+499907	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Diphyidae	Diphyes	Diphyes bojani
+499908	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Diphyidae	Diphyes	Diphyes chamissonis
+499914	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Rhizostomatidae	Rhopilema	Rhopilema esculentum
+500023	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Diphyidae	Eudoxoides	Eudoxoides mitra
+502945	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aequoreidae	Aequorea	Aequorea floridana
+502946	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Bougainvilliidae	Bougainvillia	Bougainvillia fulva
+502950	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Hydractinia	Hydractinia sp. PC-2008
+502953	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Oceaniidae	Turritopsis	Turritopsis nutricula
+502955	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	Zyzzyzus	Zyzzyzus warreni
+502966	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Stylasteridae	Paraconopora	Paraconopora anthohelia
+502967	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Eirenidae	Eutima	Eutima sapinhoa
+502968	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Pandeidae	Neoturris	Neoturris breviconis
+515652	Metazoa	Cnidaria	Hydrozoa	Actinulida	Halammohydridae	Halammohydra	Halammohydra sp. USNM 1109974
+515654	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Cuninidae	Solmissus	Solmissus incisa
+524312	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	Eudendrium	Eudendrium glomeratum
+524315	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Eudendriidae	Eudendrium	Eudendrium carneum
+557761	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Podocoryna	Podocoryna exigua
+56245	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Aglantha	Aglantha digitale
+573605	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Eirenidae	Eirene	Eirene kambara
+576742	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corymorphidae	Corymorpha	Corymorpha pendula
+576744	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	Ectopleura	Ectopleura crocea
+576745	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corymorphidae	Euphysa	Euphysa aurata
+576746	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corymorphidae	Euphysa	Euphysa tentaculata
+576747	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	Hybocodon	Hybocodon chilensis
+576748	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corynidae	Sarsia	Sarsia princeps
+576779	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Milleporidae	Millepora	Millepora sp. AMN-2008
+576781	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Candelabridae	Candelabrum	Candelabrum sp. PC0003
+578154	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Tubulariidae	Ectopleura	Ectopleura marina
+588336	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Aeginidae	Aeginopsis	Aeginopsis laurentii
+596313	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Mastigiidae	Mastigias	Mastigias papua
+6082	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydridae	Hydra	Hydra viridissima
+6087	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydridae	Hydra	Hydra vulgaris
+6100	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Aequoreidae	Aequorea	Aequorea victoria
+6141	Metazoa	Cnidaria	Cubozoa	Carybdeida	Tripedaliidae	Tripedalia	Tripedalia cystophora
+6145	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia aurita
+6148	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora quinquecirrha
+627715	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Obeliidae	Obelia	Obelia sp. NE-07-A
+627716	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Obeliidae	Obelia	Obelia sp. NE-07-B
+637470	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydrichthyidae	Hydrichthys	Hydrichthys boycei
+645345	Metazoa	Cnidaria	Scyphozoa	Coronatae	Atollidae	Atolla	Atolla wyvillei
+645347	Metazoa	Cnidaria	Cubozoa	Chirodropida	Chiropsalmidae	Chiropsalmus	Chiropsalmus quadrumanus
+645351	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Diphyidae	Eudoxoides	Eudoxoides spiralis
+645361	Metazoa	Cnidaria	Scyphozoa	Coronatae	Nausithoidae	Nausithoe	Nausithoe atlantica
+645378	Metazoa	Cnidaria	Hydrozoa	Narcomedusae	Aeginidae	Aeginura	Aeginura grimaldii
+645382	Metazoa	Cnidaria	Hydrozoa	Trachymedusae	Rhopalonematidae	Colobonema	Colobonema sericeum
+645386	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Diphyidae	Dimophyes	Dimophyes arctica
+645392	Metazoa	Cnidaria	Hydrozoa	Siphonophorae	Clausophyidae	Kephyes	Kephyes ovata
+654955	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Haliclystus	Haliclystus antarcticus
+655709	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Symplectoscyphus	Symplectoscyphus curvatus
+655710	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Symplectoscyphus	Symplectoscyphus exochus
+655717	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Halopterididae	Schizotricha	Schizotricha crassa
+655718	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Halopterididae	Schizotricha	Schizotricha falcata
+655719	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Halopterididae	Schizotricha	Schizotricha nana
+655721	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Halopterididae	Schizotricha	Schizotricha turqueti
+655723	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Kirchenpaueriidae	Oswaldella	Oswaldella grandis
+655725	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Kirchenpaueriidae	Oswaldella	Oswaldella laertesi
+655730	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Sertulariidae	Antarctoscyphus	Antarctoscyphus spiralis
+661990	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Eucheilota	Eucheilota maculata
+662000	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Opercularella	Opercularella lacerata
+662034	Metazoa	Cnidaria	Hydrozoa	Leptothecata	Campanulariidae	Orthopyxis	Orthopyxis crenata
+662074	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Corynidae	Stauridiosarsia	Stauridiosarsia nipponica
+667509	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Moerisiidae	Moerisia	Moerisia inkermanica
+667729	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Oceaniidae	Turritopsis	Turritopsis sp. PC-2009
+672230	Metazoa	Cnidaria	Cubozoa	Chirodropida	Chirodropidae	Chironex	Chironex yamaguchii
+685041	Metazoa	Cnidaria	Cubozoa	Carybdeida	Carybdeidae	Carybdea	Carybdea branchi
+685044	Metazoa	Cnidaria	Cubozoa	Carybdeida	Carybdeidae	Carybdea	Carybdea cf. rastonii BB-2009
+685051	Metazoa	Cnidaria	Cubozoa	Chirodropida	Chirodropidae	Chirodropidae sp. BB-2009	
+686324	Metazoa	Cnidaria	Cubozoa	Carybdeida	Carybdeidae	Carybdea	Carybdea arborifera
+686327	Metazoa	Cnidaria	Cubozoa	Carybdeida	Carukiidae	Morbakka	Morbakka virulenta
+686686	Metazoa	Cnidaria	Cubozoa	Carybdeida	Carybdeidae	Carybdea	"Carybdea cf. xaymacana auct. non Conant, 1897"
+686687	Metazoa	Cnidaria	Cubozoa	Carybdeida	Carybdeidae	Carybdea	"Carybdea cf. marsupialis auct. non (Linnaeus, 1758)"
+686688	Metazoa	Cnidaria	Cubozoa	Carybdeida	Tamoyidae	Tamoya	"Tamoya cf. haplonema auct. non Muller, 1859"
+748776	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Haliclystus	Haliclystus californiensis
+756009	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Haliclystus	Haliclystus stejnegeri
+756010	Metazoa	Cnidaria	Staurozoa	Stauromedusae	Haliclystidae	Haliclystus	Haliclystus tenuis
+78582	Metazoa	Cnidaria	Cubozoa	Carybdeida	Carybdeidae	Carybdea	Carybdea rastonii
+86043	Metazoa	Cnidaria	Scyphozoa	Coronatae	Atollidae	Atolla	Atolla vanhoeffeni
+880215	Metazoa	Cnidaria	Scyphozoa	Coronatae	Atollidae	Atolla	Atolla tenella
+880217	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Cassiopeidae	Cassiopea	Cassiopea ornata
+880218	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Cepheidae	Cephea	Cephea cephea
+880219	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora fuscescens
+880220	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Pelagiidae	Chrysaora	Chrysaora lactea
+880221	Metazoa	Cnidaria	Scyphozoa	Coronatae	Periphyllidae	Periphylla	Periphylla periphylla
+880222	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Rhizostomatidae	Rhopilema	Rhopilema verrilli
+880224	Metazoa	Cnidaria	Scyphozoa	Coronatae	Atorellidae	Atorella	Atorella octogonos
+880226	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Catostylidae	Crambione	Crambione mastigophora
+880228	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Deepstaria	Deepstaria enigmatica
+880230	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Drymonematidae	Drymonema	Drymonema dalmatinum
+880232	Metazoa	Cnidaria	Scyphozoa	Coronatae	Linuchidae	Linuche	Linuche aquila
+880233	Metazoa	Cnidaria	Scyphozoa	Coronatae	Linuchidae	Linuche	Linuche unguiculata
+880235	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Lychnorhizidae	Lychnorhiza	Lychnorhiza lucerna
+880237	Metazoa	Cnidaria	Scyphozoa	Coronatae	Paraphyllinidae	Paraphyllina	Paraphyllina ransoni
+880239	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Poralia	Poralia rufescens
+880241	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Lychnorhizidae	Pseudorhiza	Pseudorhiza haeckeli
+880243	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Thysanostomatidae	Thysanostoma	Thysanostoma thysanura
+880245	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Mastigiidae	Versuriga	Versuriga anadyomene
+880252	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Ulmaridae	Aurelia	Aurelia sp. 2 KMB-2010
+880253	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Catostylidae	Acromitus	Acromitus sp. KMB-2010
+880255	Metazoa	Cnidaria	Scyphozoa	Coronatae	Nausithoidae	Nausithoe	Nausithoe sp. KMB-2010
+880257	Metazoa	Cnidaria	Scyphozoa	Rhizostomeae	Lobonematidae	Lobonematidae sp. KMB-2010	
+880259	Metazoa	Cnidaria	Scyphozoa	Coronatae	Atorellidae	Stephanoscyphus	Stephanoscyphus sp. KMB-2010
+880261	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Cyaneidae	Desmonema	Desmonema sp. KMB-2010
+89461	Metazoa	Cnidaria	Hydrozoa	Anthoathecata	Hydractiniidae	Solanderia	Solanderia secunda
+944561	Metazoa	Cnidaria	Scyphozoa	Semaeostomeae	Drymonematidae	Drymonema	Drymonema larsoni
